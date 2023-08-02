@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fawwaz Elahi</h1>
 <h3 align="center">Computer Engineer , Delhi Technological University</h3>
 
-<script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”></script>
+<script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”>
+  
+</script>
 <lottie-player src=“https://lottie.host/a58ea544-2065-46d9-a75a-eed3f416e0f3/6AXr0pFhhf.json” background=“#FFFFFF” speed=“1” style=“width: 300px; height: 300px” direction=“-1” mode=“normal” loop autoplay></lottie-player>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fawazelahi" alt="fawazelahi" /></a> </p>
