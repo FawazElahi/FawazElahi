@@ -5,7 +5,7 @@
 
 <p align="center" ><br> <em>Software Engineer and  Soccer Enthusiast</em></p>
 
-<h5 align="right">🎓 Delhi Technological University</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
