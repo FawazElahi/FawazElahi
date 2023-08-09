@@ -2,7 +2,7 @@
 <img align = "right" alt= "coding Fawaz" src = "https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 
-<h3 align="center" ><br> Software Engineer <br> &<br> soccer enthusiast </h3>
+<h3 align="center" ><br> Software Engineer and  Soccer Enthusiast </h3>
 
  Delhi Technological University
 
