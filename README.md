@@ -4,7 +4,7 @@
 
 <h3 align="center" ><br> Software Engineer and  Soccer Enthusiast </h3>
 
- Delhi Technological University
+🎓 Delhi Technological University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
